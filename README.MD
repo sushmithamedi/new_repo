@@ -1,1 +1,1 @@
-This is a test repository created from command line. This is great
+This is a test repository created from command line. This is fun
